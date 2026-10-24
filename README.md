@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Design-Development-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Design-Development-Software?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Design-Development-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Design-Development-Software?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Design-Development-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Design-Development-Software?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Design-Development-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Web-Design-Development-Software?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Design-Development-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue?style=flat-square" alt="License" /></a>
@@ -65,11 +65,11 @@ The following table provides a comprehensive overview of commercial SaaS web des
 
 ## 🔓 Open-Source Web Design & Development Software
 
-A curated catalog of open-source visual website builders, code editors, and design platforms. Each project includes a real-time star badge linking directly to the repository's stargazers page. The entries are strictly sorted in **descending order by GitHub star count**.
+A curated catalog of open-source visual website builders, code editors, and design platforms. Each project includes a real-time Stars_Badge linking directly to the repository's stargazers page. The entries are strictly sorted in **descending order by GitHub Stars_Count**.
 
 ---
 
-### 1. [Penpot](https://github.com/penpot/penpot) [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
+### 1. [Penpot](https://github.com/penpot/penpot) [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
 - **Primary Category**: 🎨 Collaborative Web Design & Prototyping Platform (Figma Alternative)
 - **License**: MPL-2.0
 - **Tech Stack**: Clojure, ClojureScript, Web Standards (SVG, CSS, HTML, JSON)
@@ -79,7 +79,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 2. [VSCodium](https://github.com/VSCodium/vscodium) [![GitHub stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers)
+### 2. [VSCodium](https://github.com/VSCodium/vscodium) [![GitHub_Stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers)
 - **Primary Category**: 💻 Lightweight Code Editor & Web IDE
 - **License**: MIT
 - **Tech Stack**: TypeScript, Electron, HTML5, CSS3
@@ -89,7 +89,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 3. [Adobe Brackets](https://github.com/adobe/brackets) [![GitHub stars](https://img.shields.io/github/stars/adobe/brackets?style=social&color=white)](https://github.com/adobe/brackets/stargazers)
+### 3. [Adobe Brackets](https://github.com/adobe/brackets) [![GitHub_Stars](https://img.shields.io/github/stars/adobe/brackets?style=social&color=white)](https://github.com/adobe/brackets/stargazers)
 - **Primary Category**: 💻 Open-Source Web Code Editor
 - **License**: MIT
 - **Tech Stack**: JavaScript, HTML, CSS
@@ -99,7 +99,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 4. [GrapesJS](https://github.com/GrapesJS/grapesjs) [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)
+### 4. [GrapesJS](https://github.com/GrapesJS/grapesjs) [![GitHub_Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)
 - **Primary Category**: ⚡ Multi-Purpose Web Builder Framework & WYSIWYG Engine
 - **License**: BSD-3-Clause
 - **Tech Stack**: JavaScript, CSS3, Canvas API
@@ -109,7 +109,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 5. [Eclipse Theia](https://github.com/eclipse-theia/theia) [![GitHub stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)
+### 5. [Eclipse Theia](https://github.com/eclipse-theia/theia) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)
 - **Primary Category**: 🛠️ Cloud & Desktop Web IDE Framework
 - **License**: EPL-2.0
 - **Tech Stack**: TypeScript, Node.js, Web Standards
@@ -119,7 +119,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 6. [Puck](https://github.com/puckeditor/puck) [![GitHub stars](https://img.shields.io/github/stars/puckeditor/puck?style=social&color=white)](https://github.com/puckeditor/puck/stargazers)
+### 6. [Puck](https://github.com/puckeditor/puck) [![GitHub_Stars](https://img.shields.io/github/stars/puckeditor/puck?style=social&color=white)](https://github.com/puckeditor/puck/stargazers)
 - **Primary Category**: ⚛️ Visual Drag-and-Drop Editor for React & Next.js
 - **License**: MIT
 - **Tech Stack**: TypeScript, React, Next.js
@@ -129,7 +129,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 7. [Webstudio](https://github.com/webstudio-is/webstudio) [![GitHub stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)
+### 7. [Webstudio](https://github.com/webstudio-is/webstudio) [![GitHub_Stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)
 - **Primary Category**: 🌐 Open-Source Visual Website Builder (Webflow Alternative)
 - **License**: AGPL-3.0 / MIT
 - **Tech Stack**: Remix, React, Radix UI, TypeScript
@@ -139,7 +139,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 8. [Instatic](https://github.com/CoreBunch/Instatic) [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=social&color=white)](https://github.com/CoreBunch/Instatic/stargazers)
+### 8. [Instatic](https://github.com/CoreBunch/Instatic) [![GitHub_Stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=social&color=white)](https://github.com/CoreBunch/Instatic/stargazers)
 - **Primary Category**: 📦 Self-Hosted Visual CMS & Webflow/WordPress Alternative
 - **License**: MIT
 - **Tech Stack**: Bun, SQLite, QuickJS-WASM, Semantic HTML/CSS
@@ -149,7 +149,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 9. [Craft.js](https://github.com/prevwong/craft.js) [![GitHub stars](https://img.shields.io/github/stars/prevwong/craft.js?style=social&color=white)](https://github.com/prevwong/craft.js/stargazers)
+### 9. [Craft.js](https://github.com/prevwong/craft.js) [![GitHub_Stars](https://img.shields.io/github/stars/prevwong/craft.js?style=social&color=white)](https://github.com/prevwong/craft.js/stargazers)
 - **Primary Category**: 🧩 React Framework for Building Drag-and-Drop Page Editors
 - **License**: MIT
 - **Tech Stack**: React, TypeScript
@@ -159,7 +159,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 10. [Pulsar](https://github.com/pulsar-edit/pulsar) [![GitHub stars](https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social&color=white)](https://github.com/pulsar-edit/pulsar/stargazers)
+### 10. [Pulsar](https://github.com/pulsar-edit/pulsar) [![GitHub_Stars](https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social&color=white)](https://github.com/pulsar-edit/pulsar/stargazers)
 - **Primary Category**: 💻 Community-Driven Hackable Code Editor (Atom Successor)
 - **License**: MIT
 - **Tech Stack**: Electron, JavaScript, Less, HTML5
@@ -169,7 +169,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 11. [Apache NetBeans](https://github.com/apache/netbeans) [![GitHub stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers)
+### 11. [Apache NetBeans](https://github.com/apache/netbeans) [![GitHub_Stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers)
 - **Primary Category**: ☕ Comprehensive Web & Application IDE
 - **License**: Apache-2.0
 - **Tech Stack**: Java, HTML5, JavaScript, CSS3, PHP
@@ -179,7 +179,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 12. [OpenChakra](https://github.com/premieroctet/openchakra) [![GitHub stars](https://img.shields.io/github/stars/premieroctet/openchakra?style=social&color=white)](https://github.com/premieroctet/openchakra/stargazers)
+### 12. [OpenChakra](https://github.com/premieroctet/openchakra) [![GitHub_Stars](https://img.shields.io/github/stars/premieroctet/openchakra?style=social&color=white)](https://github.com/premieroctet/openchakra/stargazers)
 - **Primary Category**: ⚡ Visual Component Builder & Code Generator for Chakra UI
 - **License**: MIT
 - **Tech Stack**: React, Chakra UI, TypeScript
@@ -189,7 +189,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 13. [Silex](https://github.com/silexlabs/Silex) [![GitHub stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)
+### 13. [Silex](https://github.com/silexlabs/Silex) [![GitHub_Stars](https://img.shields.io/github/stars/silexlabs/Silex?style=social&color=white)](https://github.com/silexlabs/Silex/stargazers)
 - **Primary Category**: 🌐 Visual Static Website Builder (Webflow Alternative)
 - **License**: AGPL-3.0
 - **Tech Stack**: Node.js, GrapesJS, 11ty (Eleventy), TypeScript
@@ -199,7 +199,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 14. [Phoenix Code](https://github.com/phcode-dev/phoenix) [![GitHub stars](https://img.shields.io/github/stars/phcode-dev/phoenix?style=social&color=white)](https://github.com/phcode-dev/phoenix/stargazers)
+### 14. [Phoenix Code](https://github.com/phcode-dev/phoenix) [![GitHub_Stars](https://img.shields.io/github/stars/phcode-dev/phoenix?style=social&color=white)](https://github.com/phcode-dev/phoenix/stargazers)
 - **Primary Category**: 🚀 Modern Web Development Code Editor (Brackets Successor)
 - **License**: MPL-2.0
 - **Tech Stack**: JavaScript, HTML5, CSS3, Node.js
@@ -209,7 +209,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 15. [BlueGriffon](https://github.com/therealglazou/bluegriffon) [![GitHub stars](https://img.shields.io/github/stars/therealglazou/bluegriffon?style=social&color=white)](https://github.com/therealglazou/bluegriffon/stargazers)
+### 15. [BlueGriffon](https://github.com/therealglazou/bluegriffon) [![GitHub_Stars](https://img.shields.io/github/stars/therealglazou/bluegriffon?style=social&color=white)](https://github.com/therealglazou/bluegriffon/stargazers)
 - **Primary Category**: 🖥️ Desktop WYSIWYG HTML & EPUB Editor
 - **License**: MPL-2.0 / GPL-2.0
 - **Tech Stack**: C++, Gecko Engine, JavaScript, HTML5
@@ -219,7 +219,7 @@ A curated catalog of open-source visual website builders, code editors, and desi
 
 ---
 
-### 16. [Bluefish](https://github.com/Distrotech/bluefish) [![GitHub stars](https://img.shields.io/github/stars/Distrotech/bluefish?style=social&color=white)](https://github.com/Distrotech/bluefish/stargazers)
+### 16. [Bluefish](https://github.com/Distrotech/bluefish) [![GitHub_Stars](https://img.shields.io/github/stars/Distrotech/bluefish?style=social&color=white)](https://github.com/Distrotech/bluefish/stargazers)
 - **Primary Category**: ⚡ Ultra-Fast Lightweight Programmer's Web Editor
 - **License**: GPL-3.0
 - **Tech Stack**: C, GTK+
@@ -285,7 +285,7 @@ Contributions to this directory are warmly encouraged! To propose a new software
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add or update entries** in `README.md` following the existing format.
-3. 🔍 **Verify details**: Include specific starting prices, accurate free tier limits, GitHub star badges (`style=social`), and factual descriptions.
+3. 🔍 **Verify details**: Include specific starting prices, accurate free tier limits, GitHub Stars_Badges (`style=social`), and factual descriptions.
 4. 🚀 **Submit a Pull Request** with a brief summary of why the tool is a valuable addition.
 
 Please ensure all recommended open-source projects have active development and public issue tracking.
